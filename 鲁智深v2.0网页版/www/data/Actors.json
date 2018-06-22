@@ -1,7 +1,0 @@
-[
-null,
-{"id":1,"battlerName":"鲁蛋1","characterIndex":0,"characterName":"鲁蛋3","classId":2,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"鲁蛋4","traits":[{"code":41,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"鲁达","nickname":"鲁提辖","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"$shijin","classId":2,"equips":[0,1,2,3,0],"faceIndex":3,"faceName":"主要人物脸图","traits":[],"initialLevel":1,"maxLevel":99,"name":"史进","nickname":"史大郎","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":7,"characterName":"$lizhong","classId":3,"equips":[0,0,2,3,0],"faceIndex":0,"faceName":"主要人物脸图","traits":[],"initialLevel":1,"maxLevel":99,"name":"李忠","nickname":"买药人","note":"","profile":""},
-{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"卢修斯","nickname":"","note":"","profile":""}
-]
